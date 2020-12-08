@@ -3,11 +3,8 @@ import Layout from "../components/Layout";
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hello Next.js 👋</h1>
     <p>
-      <Link href="/about">
-        <a>About</a>
-      </Link>
+      <Link href="/resume/zh">Hello World</Link>
     </p>
   </Layout>
 );

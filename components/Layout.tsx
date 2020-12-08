@@ -16,7 +16,7 @@ const Layout: FC<LayoutProps> = ({ children, title = "lnwu" }) => (
     <footer>
       <hr />
       <span>
-        {new Date().getFullYear()}© Powered by{" "}
+        {new Date().getFullYear()} © Powered by{" "}
         <a href="https://nextjs.org/">Nextjs</a>
       </span>
     </footer>
