@@ -9,7 +9,6 @@
     "@mdx-js/loader": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "@next/mdx": "^10.0.3",
-    "gh-pages": "^3.1.0",
     "next": "^10.0.3",
     "normalize.css": "^8.0.1",
     "react": "^17.0.1",
